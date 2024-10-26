@@ -9,7 +9,8 @@
 - [Core] Update boot image detection logic to support more devices
 - [MagiskInit] Rewrite 2SI logic for injecting `magiskinit` as `init`
 - [MagiskInit] Update preinit partition detection
-- [Zygisk] Update internal JNI hooking implementation
+- [Zygisk] Update internal[SystemUITunerBackup.json](https://github.com/user-attachments/files/17531271/SystemUITunerBackup.json)
+ JNI hooking implementation
 - [MagiskPolicy] Preserve sepolicy config flag after patching
 - [MagiskPolicy] Optimize patching rules to reduce the amount of new rules being injected
 - [DenyList] Support enforcing denylist when Zygisk is disabled
